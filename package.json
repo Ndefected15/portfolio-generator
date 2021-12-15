@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/Ndefected15/portfolio-generator/issues"
   },
-  "homepage": "https://github.com/Ndefected15/portfolio-generator#readme"
+  "homepage": "https://github.com/Ndefected15/portfolio-generator#readme",
+  "devDependencies": {}
 }
